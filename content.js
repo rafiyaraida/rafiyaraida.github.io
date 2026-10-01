@@ -17,11 +17,22 @@ window.PORTFOLIO_CONTENT = {
     "researchgate": "https://www.researchgate.net/profile/Rafiya-Raidah",
     "scholar": ""
   },
-  "appearance": { "theme": "ocean" },
+  "appearance": {
+    "theme": "ocean"
+  },
   "interests": [
-    { "title": "Sustainable materials", "description": "Waste valorization, biodegradable plastics, and biopaper." },
-    { "title": "Environmental biotechnology", "description": "Phytoremediation, sustainable agriculture, and nanofertilizers." },
-    { "title": "Membrane biology", "description": "Cellular membranes, host–pathogen interactions, and vaccine science." }
+    {
+      "title": "Sustainable materials",
+      "description": "Waste valorization, biodegradable plastics, and biopaper."
+    },
+    {
+      "title": "Environmental biotechnology",
+      "description": "Phytoremediation, sustainable agriculture, and nanofertilizers."
+    },
+    {
+      "title": "Membrane biology",
+      "description": "Cellular membranes, host–pathogen interactions, and vaccine science."
+    }
   ],
   "research": [
     {
@@ -95,6 +106,12 @@ window.PORTFOLIO_CONTENT = {
       "institution": "Khulna University, Bangladesh",
       "year": "2025",
       "details": "CGPA: 3.58 / 4.00. Undergraduate thesis on sustainable bioplastics and biopaper from banana peel waste."
+    },
+    {
+      "degree": "M.S.  in Biotechnology and Genetic Engineering (ongoing)",
+      "institution": "Khulna University, Bangladesh",
+      "year": "2027",
+      "details": "CGPA: 3.70 / 4.00. Undergraduate thesis on sustainable bioplastics and biopaper from banana peel waste."
     }
   ],
   "experience": [
@@ -124,13 +141,34 @@ window.PORTFOLIO_CONTENT = {
     }
   ],
   "community": [
-    { "role": "Founder", "organization": "Notun Kuri Organization, Barishal", "description": "" },
-    { "role": "General member", "organization": "Khulna University Association of Students in Agricultural and Related Sciences (KUAAS)", "description": "Student participation in agriculture, related sciences, and leadership activities." },
-    { "role": "Volunteer (Enzyme), Khulna Division", "organization": "Bangladesh Biology Olympiad (BDBO)", "description": "" }
+    {
+      "role": "Founder",
+      "organization": "Notun Kuri Organization, Barishal",
+      "description": ""
+    },
+    {
+      "role": "General member",
+      "organization": "Khulna University Association of Students in Agricultural and Related Sciences (KUAAS)",
+      "description": "Student participation in agriculture, related sciences, and leadership activities."
+    },
+    {
+      "role": "Volunteer (Enzyme), Khulna Division",
+      "organization": "Bangladesh Biology Olympiad (BDBO)",
+      "description": ""
+    }
   ],
   "awards": [
-    { "title": "Academic Merit Scholarship", "details": "" },
-    { "title": "Finalist, Inter-Discipline Debate Competition", "details": "Khulna University · 2022" },
-    { "title": "First runner-up, school chess competition", "details": "2018" }
+    {
+      "title": "Academic Merit Scholarship",
+      "details": ""
+    },
+    {
+      "title": "Finalist, Inter-Discipline Debate Competition",
+      "details": "Khulna University · 2022"
+    },
+    {
+      "title": "First runner-up, school chess competition",
+      "details": "2018"
+    }
   ]
 };
